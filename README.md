@@ -1,2 +1,0 @@
-# claude-settings-setup
-
